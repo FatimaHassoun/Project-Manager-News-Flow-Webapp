@@ -1,6 +1,7 @@
 # Internship Project Summary - NewsFlow
 
-**Role:** Project Management
+**Role: Project Management**
+---
 
 **Project:** NewsFlow (Demo news platform for internship)  
 ---

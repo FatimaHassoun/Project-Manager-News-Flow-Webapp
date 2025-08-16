@@ -12,7 +12,7 @@
 - Facilitated communication between team members  
 
 ### Agile Process Implementation
-- Applied basic Agile principles without rigid sprints  
+- Applied Agile principles without rigid sprints  
 - Tracked progress using Azure DevOps boards  
 - Conducted periodic check-ins to monitor task completion  
 

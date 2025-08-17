@@ -9,7 +9,8 @@
 ## Key Responsibilities
 
 ### Project Setup & Coordination
-- Created and managed the Azure DevOps project: NewsFlow  
+- Created and managed the NewsFlow project in Azure DevOps
+- Conducted meetings to align the team and track progress 
 - Organized user stories and tasks based on provided requirements  
 - Facilitated communication between team members  
 
